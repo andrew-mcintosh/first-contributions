@@ -1519,6 +1519,7 @@
 - [Aditya Nihal Kumar Singh](https://github.com/aditya314)
 - [Devon JohnBaptiste](https://github.com/devondacoda)
 - [Rachna Bansal](https://github.com/rachnaban)
+- [Andrew McIntosh](https://github.com/andrew-mcintosh)
 - [Shyam Mohan V M](https://github.com/shyammvm)
 - [Jesse Jacobs](https://github.com/jjacobs21)
 - [Claudius King](https://github.com/protean-phoenix)
